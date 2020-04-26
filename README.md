@@ -1,9 +1,9 @@
-# bioinformatic_algs
-Provides a practical introduction to the main algorithms, databases, and tools used in bioinformatics
+## bioinformatic_algs
 
-## Platform
-* Problems sources from [Rosalind](http://rosalind.info)
+:microscope:
+
+Provides a practical introduction to algorithms, databases, and tools used for bioinformatics. 
+
+## Rosalind
+* Solutions are for [Rosalind](http://rosalind.info) problems.
 * Rosalind is a platform for learning bioinformatics and programming through problem solving.
-
-## Table of Contents
-* **[Counting DNA Nucelotide]**(src/COUNTING_DNA_NUCLEOTIDES/README.md)
